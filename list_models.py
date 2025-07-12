@@ -9,7 +9,7 @@ import os
 # IMPORTANT: If you hardcoded your API key in app.py, you need to hardcode it here too.
 # Otherwise, ensure GEMINI_API_KEY is set in your .env file or environment variables.
 # Example if hardcoding:
-GEMINI_API_KEY = "AIzaSyAqDo75w3RYOqbhGtherUk4BXy-hSgncb8" # Replace with your actual Gemini API Key
+GEMINI_API_KEY = "API_KEY" # Replace with your actual Gemini API Key
 
 # Configure the Google Gemini API
 try:
