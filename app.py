@@ -42,7 +42,7 @@ st.set_page_config(
 )
 
 # Display the main title and an introductory markdown.
-st.title("🩺 AI Health Assistant")
+st.title("🩺 RA's AI Health Assistant")
 st.markdown("""
 Welcome to your AI-powered Health Assistant!
 Type your basic clinical health-related questions below, and I'll provide informative responses.
@@ -104,5 +104,5 @@ if st.button("Get Answer", key="submit_button"):
 
 # Add a simple footer for branding or additional information.
 st.markdown("---")
-st.markdown("Powered by Google Gemini & Streamlit")
+st.markdown("Rahul's test system")
 
